@@ -381,5 +381,4 @@ The proposed system introduces the following capabilities:
    npm run build
    ```
 
----
-*Developed as part of the Software Engineering Project Lab.*
+
