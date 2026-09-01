@@ -1,4 +1,21 @@
-# Logs
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+*.env
+*.pem
+*.key
+*.crt
+
+# Database & SQLite files
+*.db
+*.sqlite
+*.sqlite3
+server/*.db
+
+# Logs & Temporary outputs
 logs
 *.log
 npm-debug.log*
@@ -7,17 +24,18 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies & Build artifacts
 node_modules
 dist
 dist-ssr
 *.local
-*.db
 
-# Editor directories and files
+# IDE & Operating System files
+.DS_Store
+Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
 *.suo
 *.ntvs*
 *.njsproj

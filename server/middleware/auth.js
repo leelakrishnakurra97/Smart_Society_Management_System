@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'civicnest-super-secret-jwt-key-2026';
+const JWT_SECRET = process.env.JWT_SECRET || 'smart-society-secret-jwt-key-2026';
 
 // Middleware to verify JWT token
 const verifyToken = (req, res, next) => {
