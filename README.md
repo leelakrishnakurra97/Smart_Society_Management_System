@@ -1,6 +1,6 @@
 # Smart Society Management System
 
-A centralized full-stack web-based platform designed to digitize residential society operations, automate maintenance charge calculations and billing, simplify online complaint tracking, manage event hall reservations, and streamline communication between administrators and residents.
+A web-based Society Management System that simplifies society administration by automating maintenance calculations, payment tracking, complaint management, event hall bookings, and member communication. It provides role-based dashboards for admins and residents, enabling easy access to bills, payment history, complaints, and society updates.
 
 ![Architecture](https://img.shields.io/badge/Architecture-Full--Stack%20Node.js%20%2B%20React-indigo)
 ![Database Engine](https://img.shields.io/badge/Database-Relational%20SQL-emerald)
