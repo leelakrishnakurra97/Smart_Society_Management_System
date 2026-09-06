@@ -344,7 +344,7 @@ The proposed system introduces the following capabilities:
 
 ---
 
-## 🔑 Demo Credentials
+##  Demo Credentials
 
 | Role | Username | Password | Flat | Privileges |
 | :--- | :--- | :--- | :--- | :--- |
