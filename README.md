@@ -241,7 +241,7 @@ Agile is ideal because each module (Auth, Maintenance, Complaints, Hall Booking,
     └── Resident Access
 ```
 
-### D. Role-Based WBS
+### D. Role-Based 
 ```text
 1. Smart Society Management System
 │
