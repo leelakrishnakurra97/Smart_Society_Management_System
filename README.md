@@ -129,7 +129,7 @@ Agile is ideal because each module (Auth, Maintenance, Complaints, Hall Booking,
 
 ## 7. Work Breakdown Structure (WBS)
 
-### A. Process-Based WBS
+### A. Process-Based 
 ```text
 1. Smart Society Management System
 │
