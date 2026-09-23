@@ -173,7 +173,7 @@ Agile is ideal because each module (Auth, Maintenance, Complaints, Hall Booking,
     └── 1.6.4 Maintenance
 ```
 
-### B. Product-Based WBS
+### B. Product-Based 
 ```text
 1. Smart Society Management System
 │
